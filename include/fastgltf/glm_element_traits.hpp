@@ -1,6 +1,6 @@
 #pragma once
 
-#include <fastgltf/tools.hpp>
+#include "./tools.hpp"
 
 // If we find glm in the default include path, we'll also include it ourselfs.
 // However, it is generally expected that the user will include glm before including this header.

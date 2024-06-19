@@ -32,7 +32,7 @@
 #include <tuple>
 #endif
 
-#include <fastgltf/types.hpp>
+#include "./types.hpp"
 
 #ifdef _MSC_VER
 #pragma warning(push)

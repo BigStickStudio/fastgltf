@@ -31,7 +31,7 @@
 #include <iterator>
 #endif
 
-#include <fastgltf/types.hpp>
+#include "./types.hpp"
 
 namespace fastgltf {
 

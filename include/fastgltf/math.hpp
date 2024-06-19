@@ -33,7 +33,7 @@
 #include <tuple>
 #endif
 
-#include <fastgltf/util.hpp>
+#include "./util.hpp"
 
 /**
  * The fastgltf::math namespace contains all math functions and types which are needed for working with glTF assets.

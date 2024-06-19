@@ -39,8 +39,8 @@
 #endif
 
 // Utils header already includes some headers, which we'll try and avoid including twice.
-#include <fastgltf/util.hpp>
-#include <fastgltf/math.hpp>
+#include "./util.hpp"
+#include "./math.hpp"
 
 #if defined(_GLIBCXX_USE_CXX11_ABI) && !_GLIBCXX_USE_CXX11_ABI
 // polymorphic allocators are only supported with the 'new' GCC ABI.
